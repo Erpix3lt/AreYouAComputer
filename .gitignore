@@ -1,0 +1,62 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# VENV
+_env_bot/
+
+# Environment files
+.env
+
+# Virtual environment directories
+env/
+venv/
+__pycache__/
+
+# Log files
+*.log
+
+# IDE/editor specific files
+.vscode/
+*.swp
+*.swo
+
+# Operating system specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Pytest cache
+.cache/
+
+# Coverage reports
+.coverage
+coverage.xml
+htmlcov/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution and packaging
+build/
+dist/
+*.egg-info/
+
+# MyPy
+.mypy_cache/
+
+# Python virtual environment (common names)
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Docker
+docker-compose.override.yml
+
+# Miscellaneous
+*.sqlite3
+*.db
+*.pid
+*.lock
