@@ -21,7 +21,7 @@ In 1986, Howard Rheingold almost jokingly posted a question on the first online 
 
 In the late 2010s, a post emerged on one of the internet's dark corners, 4chan, proclaiming the internet dead and pointing to 2016 as its final year. The so-called “Dead Internet Theory,” a conspiracy theory, posits that almost all content creation on the internet and its social media platforms is done by bots. The thesis is that certain actors use these bots to manipulate human audiences. While we should approach conspiracy theories with caution, there are noticeable similarities to today's online experience.
 
----------
+-
 
 Interestingly, bot exposure affects perceptual biases and may influence our desire to regulate social bots (Yan et al., 2023). The perception of the percentage of social bots on the internet increases after exposure. The study also found that participants' confidence in recognizing such bots decreases after their first exposure to them. Additionally, exposure leads participants to favor stronger regulation of social bots. Policy-based regulation is preferred over self-regulation by the companies that provide our social media platforms (Yan et al., 2023). This might be a shimmer of hope, as it exaggerates our experience and perception of bots and could drive quicker regulation.
 
