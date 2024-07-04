@@ -1,4 +1,4 @@
-# ARE YOU A COMPUTER?
+# ARE YOU A COMPUTER? 🖥️
 This Reddit bot is designed to ask the question "Are you a computer?" You may consider expanding its functionality by implementing a list of subreddits where bot interactions are common.
 
 ## Getting started
