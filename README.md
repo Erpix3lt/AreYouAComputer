@@ -10,6 +10,12 @@ Now we can use python and pip as usual.
 
 Install all dependencies: `pip install -r requirements.txt`
 
+Create a new reddit bot under: https://www.reddit.com/prefs/apps
+
+Fill in your `.env`
+
+Run `bot.py`
+
 ## Context
 In 1986 Howard Rheingold almost jokingly posted a question on the first online social networks called: “The Well”. His concern about removing a tick from his daughter's scalp was answered within minutes. This would later lead him to write the book “The Virtual Community”. Disturbingly the book paints an accurate dystopia of where the internet can develop if we are not cautious. We may be facing this dystopia now. 
 
